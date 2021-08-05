@@ -1,0 +1,3 @@
+rootProject.name = "AgpUpgradeTestingDemo"
+include ':app'
+include ':mylibrary'
